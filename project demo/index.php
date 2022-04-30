@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="text-center">--- Тема на дипломния проект ---</h1>
+    <h1 class="text-center">  „Платежни системи. Форми на безналични плащания“ </h1>
     <hr>
     <div class="navigation">
         <a href="index.php">Начало</a>
@@ -17,22 +17,27 @@
         <a href="about.php">За мен</a>
     </div>
     <div class="main">
-        <h2 class="sub-heading">--- Заглавие 1 ---</h2>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?</p>
+        <h2 class="sub-heading">Разплащателни операции</h2>
+        <p>При отчитането на разплащанията между банките от определящо значение е да се познава използваната форма на безналично плащане и правилно да се определи по чия инициатива ще бъде осъществено плащането и какво авизо ще бъде издадено. Необходимо е също да се дефинира коя банка ще бъде инициатор на плащането и коя ще бъде изпълнител по него.
+Чрез системата на безналичните плащания в съвременна България се засилва участието на банките в разплащателния процес. Това води до намаляване на паричната маса в обръщение, в резултат на което се редуцират разходите, свързани с емитирането, регулирането и съхраняването на паричната маса. Благодарение на безналичните разплащателни операции се съкращава срока на плащане, което води до ускоряване на оборота 
+на паричния капитал. По този начин се създават предпоставки за повишаване на рентабилността на производството, а оттам и за развитието на националната икономика като цяло.
+
         <div class="row">
             <div class="col-3">
-                <img src="images/noImage.jpg" alt="Снимка" width="250px">
+                <img src="images/nachalo.jpg" alt="Снимка" width="300px">
             </div>
             <div class="col-9">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?</p>
+                <p>Електронни пари – те са парична стойност в електронна форма. Издават се и се съхраняват по силата на договор, с който банката издател се задължава да снабди държателя срещу предоставяне на средства (пари в брой или по сметка) с размер, не по-малък от стойността на издадените електронни пари. Технологията на плащането с електронни пари включва:
+-	Държателят изтегля необходимата сума пари, като генерира файловете и ги записва, след което преработва файла за запазване тайната на сметката и го изпраща на банката издател
+-	Банката потвърждава сумата, задължава сметката на клиента и препраща файла обратно
+-	Плащането се извършва само за потвърдени и декодирани от банката електронни пари, която регистрира номера на вече видимите за нея електронни пари
+-	Търговецът, в полза на който е извършено плащането, проверява електронните пари за валидност и ги преправя към своята банка
+
+</p>
             </div>
         </div>
-        <h2 class="sub-heading">--- Заглавие 2 ---</h2>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus architecto dolor reprehenderit asperiores blanditiis explicabo beatae deserunt quam debitis pariatur porro, reiciendis harum quae mollitia doloribus? Doloribus libero in suscipit?</p>
+        <h2 class="sub-heading">Електронни платежни инструменти</h2>
+        <p>Електронните платежни инструменти (ЕПИ) позволяват достъп до електронно регистрирани или съхранени пари и дават възможност да се извършват депозити, преводи, теглене на пари в брой, зареждане и отнемане на парична стойност и други операции посредством електронни или други технически способи. </p>
     </div>
 </body>
 </html>

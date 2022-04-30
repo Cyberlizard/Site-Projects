@@ -22,32 +22,32 @@
                 <table id="contacts-table">
                     <tr>
                         <th>Име</th>
-                        <td>---Име---</td>
+                        <td>Владислав</td>
                     </tr>
                     <tr>
                         <th>Презиме</th>
-                        <td>---Презиме---</td>
+                        <td>Андреев </td>
                     </tr>
                     <tr>
                         <th>Фамилия</th>
-                        <td>---Фамилия---</td>
+                        <td>Андреев </td>
                     </tr>
                     <tr>
                         <th>Адрес</th>
-                        <td>---Адрес---</td>
+                        <td>Ул,,Александър Стамболийски”</td>
                     </tr>
                     <tr>
                         <th>Телефон</th>
-                        <td>---Телефон---</td>
+                        <td>0878000000</td>
                     </tr>
                     <tr>
                         <th>Email</th>
-                        <td>---Email---</td>
+                        <td>v.andreev@abv.bg</td>
                     </tr>
                 </table>
             </div>
             <div class="col-6">
-                <img src="images/noImage.jpg" alt="Снимка на автора" style="width: 250px; margin-left: 15%;">
+                <img src="images/mypic.jpg" alt="Снимка на автора" style="width: 250px; margin-left: 15%;">
             </div>
         </div>
     </div>

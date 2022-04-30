@@ -17,7 +17,21 @@
         <a href="about.php">За мен</a>
     </div>
     <div class="main">
-        <p>Съдържание на страницата</p>
+        
+        <p style="font-size:2vw;"color:<--#DC143C--><b>Начини и форми на безналични плащания</b></p><!-- Заглавие -->
+        <!-- font-size:2vw - размер -->
+        <!-- #DC143C - цвят на заглавие -->
     </div>
+    </div>
+    <div class="col-6">
+        <img src="images/2.jpg" style="position:relative; left:50px; top:10px; width:700px; height:350px; border:none;"><!-- снмка 1 -->
+            <div class="col-3">
+                <img src="images/1.jpg" style="position:relative; left:50px; top:10px; width:400px; height:350px; border:none;"><!-- снмка 2 -->
+            <div class="col-4">
+                <img src="images/3.jpg" style="position:relative; left:50px; top:10px; width:800px; height:350px; border:none;"><!-- снмка 3 -->
+            <div class="col-5">
+            </div>
 </body>
-</html>
+<!-- width:700px; - шорона на снимката -->
+<!-- height:350px - височина на снимката -->
+<!-- images/2.jpg - мястото на снимката"папка" и името на файла -->

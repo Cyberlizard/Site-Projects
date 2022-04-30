@@ -1,0 +1,21 @@
+#zagl {position: absolute; top: 10px; left: 185; width: 500px; text-align: center; color: black; font-family: comic sans MS}
+
+#pix {position: absolute; top: 0px; left: 0px}
+
+#pix2 {position: absolute; top: 0px; left: 700px}
+
+dt {margin: 10px}
+
+img {border: none; width: 115px}
+
+#pix a img.skr {width: 500px; position: absolute; top: 60px; left: 165px; visibility: hidden}
+
+#pix a:active {background: gray}
+
+#pix a:active img.skr {visibility: visible}
+
+#pix2 a img.skr {width: 500px; position: absolute; top: 60px; left: -515px; visibility: hidden}
+
+#pix2 a:active {background: gray}
+
+#pix2 a:active img.skr {visibility: visible}
